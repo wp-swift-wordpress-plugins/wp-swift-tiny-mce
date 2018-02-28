@@ -7,6 +7,7 @@ Version: 1
 Author: Gary Swift
 Author URI: https://github.com/wp-swift-wordpress-plugins
 License: GPL2
+Text Domain: wp-swift-tiny-mce
 */
 
 /*

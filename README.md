@@ -1,4 +1,4 @@
-# wp-swift-tiny-mce
+# WP Swift: Tiny MCE Extras
 
  * Description:       Adds extra function to WYSIWYG editor which allows user to add classes such as lead paragraph.
  * Version:           1.0.0
@@ -6,7 +6,7 @@
  * Author URI:        https://github.com/GarySwift
  * License:           MIT License
  * License URI:       http://www.opensource.org/licenses/mit-license.php
- * Text Domain:       wp-swift-admin-style-brightlight
+ * Text Domain:       wp-swift-tiny-mce
 
 ## Features
 Adds extra function to WYSIWYG editor which allows user to add classes such as lead paragraph. This also loads the front-end css into the WYSIWYG so we can see the changes.
